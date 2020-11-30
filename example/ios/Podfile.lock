@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - maio_flutter (0.0.1):
+    - Flutter
+    - MaioSDK
+  - MaioSDK (1.5.6)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - maio_flutter (from `.symlinks/plugins/maio_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - MaioSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  maio_flutter:
+    :path: ".symlinks/plugins/maio_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  maio_flutter: 6e36a118d524b4b8922b5f0727eaafe6c1290dfc
+  MaioSDK: 5a93c2209c02c4a8bddfd5da4c9a1f900bd60573
+
+PODFILE CHECKSUM: a75497545d4391e2d394c3668e20cfb1c2bbd4aa
+
+COCOAPODS: 1.10.0
